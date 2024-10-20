@@ -3,5 +3,5 @@ Visual AI Chat Editor:
 
 Get Started  
 ```
-npm start
+npm run dev
 ```
